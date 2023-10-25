@@ -29,6 +29,7 @@ It is important to consult these files carefully to learn how to run the battery
 
 5 - interpret_loggers
 
+
 ## Compatibility
 The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple macOS (the battery was tested in macOS Ventura, versão 13.2.1). 
 
